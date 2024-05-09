@@ -1,12 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
-
-First, run the development server:
 
 ## Simple Page Weather Api 
 
 ![Screenshot_1](https://github.com/juanfsouza/weatherio/assets/88254614/913e9eee-0cb2-4281-bb3e-f68a8eb7f0cc)
+
+## Getting Started
+
+First, run the development server:
 
 ```bash
 npm run dev
